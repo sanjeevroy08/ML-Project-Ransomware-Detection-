@@ -1,0 +1,3 @@
+FileName,md5Hash,Machine,DebugSize,DebugRVA,MajorImageVersion,MajorOSVersion,ExportRVA,ExportSize,IatVRA,MajorLinkerVersion,MinorLinkerVersion,NumberOfSections,SizeOfStackReserve,DllCharacteristics,ResourceSize,BitcoinAddresses,Benign
+test_file.dll,1234567890abcdef1234567890abcdef,332,28,4240,0,4,0,0,4096,8,0,3,1048576,256,8799820,0,1
+test_malware.exe,abcdef1234567890abcdef1234567890,34404,84,19744,10,10,0,0,16656,14,10,6,524288,49504,2632,1,0

@@ -1,0 +1,2 @@
+FileName,md5Hash,Machine,DebugSize,DebugRVA,MajorImageVersion,MajorOSVersion,ExportRVA,ExportSize,IatVRA,MajorLinkerVersion,MinorLinkerVersion,NumberOfSections,SizeOfStackReserve,DllCharacteristics,ResourceSize,BitcoinAddresses,Benign
+ransomware.exe,666d6e6f7272656e696d646165646e69,34404,0,0,0,4,0,0,0,0,0,6,2097152,0,1024,1,0
